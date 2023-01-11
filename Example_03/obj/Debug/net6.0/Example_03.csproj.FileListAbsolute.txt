@@ -1,0 +1,15 @@
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\Example_03.csproj.AssemblyReference.cache
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\Example_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\Example_03.AssemblyInfoInputs.cache
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\Example_03.AssemblyInfo.cs
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\Example_03.csproj.CoreCompileInputs.cache
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\bin\Debug\net6.0\Example_03.exe
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\bin\Debug\net6.0\Example_03.deps.json
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\bin\Debug\net6.0\Example_03.runtimeconfig.json
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\bin\Debug\net6.0\Example_03.dll
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\bin\Debug\net6.0\Example_03.pdb
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\Example_03.dll
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\refint\Example_03.dll
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\Example_03.pdb
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\Example_03.genruntimeconfig.cache
+D:\Митрофанов\Документы\ДЗ\Homework_08\Example_03\obj\Debug\net6.0\ref\Example_03.dll
