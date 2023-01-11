@@ -1,0 +1,15 @@
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\bin\Debug\net6.0\Exapmle_02.exe
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\bin\Debug\net6.0\Exapmle_02.deps.json
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\bin\Debug\net6.0\Exapmle_02.runtimeconfig.json
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\bin\Debug\net6.0\Exapmle_02.dll
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\bin\Debug\net6.0\Exapmle_02.pdb
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\Exapmle_02.csproj.AssemblyReference.cache
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\Exapmle_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\Exapmle_02.AssemblyInfoInputs.cache
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\Exapmle_02.AssemblyInfo.cs
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\Exapmle_02.csproj.CoreCompileInputs.cache
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\Exapmle_02.dll
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\refint\Exapmle_02.dll
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\Exapmle_02.pdb
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\Exapmle_02.genruntimeconfig.cache
+D:\Митрофанов\Документы\ДЗ\Homework_08\Exapmle_02\obj\Debug\net6.0\ref\Exapmle_02.dll
